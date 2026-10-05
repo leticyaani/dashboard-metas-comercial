@@ -30,8 +30,3 @@ Segundo a descrição do projeto, os dados são consolidados a partir de fontes 
 
 ![Progresso individual da meta de captação em agosto](assets/03-meta-individual-agosto.png)
 
-## Observação sobre o conteúdo
-
-Este repositório documenta o dashboard por meio das capturas fornecidas. O arquivo do relatório (por exemplo, `.pbix`), scripts de transformação, planilhas de origem e detalhes técnicos da conexão não foram enviados, portanto não estão incluídos nem foram presumidos.
-
-As capturas mantêm os nomes, percentuais e valores que aparecem nos originais. O repositório foi criado como **privado** por padrão, pois as imagens exibem resultados comerciais por pessoa. Antes de mudar a visibilidade ou compartilhar as imagens fora da equipe, confirme que os dados e identificações podem ser divulgados.
